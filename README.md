@@ -13,7 +13,7 @@
   <a href="#html5" rel="noreferrer"> <img src="https://radbell.com/files/icons/html5-300x300.png" alt="html5" width="40" height="40"/> </a> 
   <a href="#css3" rel="noreferrer"> <img src="https://radbell.com/files/icons/css3-300x300.png" alt="css3" width="40" height="40"/> </a>
   <a href="#bootstrap" rel="noreferrer"> <img src="https://radbell.com/files/icons/bootstrap-300x300.png" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="#JavaScript" rel="noreferrer"> <img src="https://radbell.com/files/icons/js-icon.png" alt="javascript" width="40" height="40"/> </a> 
+  <a href="#JavaScript" rel="noreferrer"> <img src="https://radbell.com/files/icons/js-300x300.png" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
