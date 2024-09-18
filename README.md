@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Abbas Moradi (Eric)</h1>
 
-👨‍💻 I’m currently **Full-Stack Web Developer**
+👨‍💻 I’m currently **Full-Stack Web Developer** </br>
 ✔ Senior Web Developer with over 10 years of experience.
 ✔ Skilled and motivated Front-End Developer.
 ✔ Strong understanding of Web Standards.
