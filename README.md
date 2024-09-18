@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Abbas Moradi (Eric)</h1>
 
 🌱 I’m currently **Full-Stack Web Developer**
-- I'm a focused, self-driven and motivated Web Developer who has mastered the art of combining development with planning and strategy to help solve complex business needs. Hard working, dedicated team player who is driven by creative collaboration, excited by technology.![image](https://github.com/user-attachments/assets/7d7fd640-40d7-4db1-8345-48cdb9d808e8)
+- I'm a focused, self-driven and motivated Web Developer who has mastered the art of combining development with planning and strategy to help solve complex business needs. Hard working, dedicated team player who is driven by creative collaboration, excited by technology.
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
