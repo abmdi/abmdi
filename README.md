@@ -32,5 +32,5 @@
 <a href="https://radbell.com/files/icons/wechat.html" target="blank"><img align="center" src="https://radbell.com/files/icons/wechat-icon.png" alt="ab_mdi" height="34" /></a>
 
 </p>
-<br>https://radbell.com/files/icons/wechat.html
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="abmdi" /> </p>
