@@ -29,6 +29,8 @@
 <a href="https://www.linkedin.com/in/abmdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abmdi" height="30" width="40" /></a>
 <a href="https://instagram.com/ab.mdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ab.mdi" height="30" width="40" /></a>
 <a href="https://t.me/ab_mdi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" alt="ab_mdi" height="34" width="34" /></a>
+<a href="https://radbell.com/files/icons/wechat.html" target="blank"><img align="center" src="https://radbell.com/files/icons/wechat-icon.png" alt="ab_mdi" height="34" /></a>
+
 </p>
-<br>
+<br>https://radbell.com/files/icons/wechat.html
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="abmdi" /> </p>
