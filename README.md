@@ -7,7 +7,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 10em;"/> </a> 
+  <a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 10px;"/> </a> 
   <a> <img src="https://radbell.com/files/icons/html5-300x300.png" alt="html5" width="40" height="40"/> </a> 
   <a> <img src="https://radbell.com/files/icons/css3-300x300.png" alt="css3" width="40" height="40"/> </a>
   <a> <img src="https://radbell.com/files/icons/bootstrap-300x300.png" alt="bootstrap" width="40" height="40"/> </a>
