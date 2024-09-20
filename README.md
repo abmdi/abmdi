@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋 I'm Abbas Moradi (Eric)</h1>
 
-👨‍💻 I’m currently **Full-Stack Web Developer** with over 10 years of experience in **Web Design** and Development. I have Strong understanding of **Web Standards** and looking for **Front-End** projects to contribute 🤝</br>
+👨‍💻 I’m currently **Full-Stack Web Developer** with over 10 years of experience in **Web Design** and Development. I have Strong understanding of **Web Standards** and looking for **Front-End** projects to contribute 🤝 </br></br>
+
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<br>
 <p align="left">
   <a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a> <img src="https://radbell.com/files/icons/html5-300x300.png" alt="html5" width="40" height="40"/> </a> 
