@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abbas Moradi (Eric)</h1>
+<h1 align="center">Hi 👋, I'm Erik</h1>
 <h3 align="center">Cloud & Hybrid Network Infrastructure Engineer</h3>
 
 <p align="center">
@@ -66,10 +66,10 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/abmdi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:ab.mdi@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
