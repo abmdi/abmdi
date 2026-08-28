@@ -1,13 +1,13 @@
 # Who Am I?
 
-* 🌐 **Senior Cloud & Hybrid Network Infrastructure Engineer** with 10+ years of enterprise experience architecturalizing, automating, and operating resilient network ecosystems.
-* ⚡ **Hybrid Cloud Architectures**: Specialized in designing high-availability interconnections between On-Premise Data Centers and Multi-Cloud environments (AWS, Azure, GCP) with sub-second failover and zero-downtime designs.
-* 🛠️ **Infrastructure as Code (IaC) & Automation**: Dedicated to driving Network Infrastructure as Code (NIaC), automated provisioning, config enforcement, and automated compliance pipelines.
-* 🔐 **Security & Resiliency Focus**: Passionate about Zero Trust Network Architecture (ZTNA), Granular Micro-segmentation, Multi-Tenant Cloud Connectivity, and End-to-End Observability.
+*  **Senior Cloud & Hybrid Network Infrastructure Engineer** with 10+ years of enterprise experience architecturalizing, automating, and operating resilient network ecosystems.
+*  **Hybrid Cloud Architectures**: Specialized in designing high-availability interconnections between On-Premise Data Centers and Multi-Cloud environments (AWS, Azure, GCP) with sub-second failover and zero-downtime designs.
+*  **Infrastructure as Code (IaC) & Automation**: Dedicated to driving Network Infrastructure as Code (NIaC), automated provisioning, config enforcement, and automated compliance pipelines.
+*  **Security & Resiliency Focus**: Passionate about Zero Trust Network Architecture (ZTNA), Granular Micro-segmentation, Multi-Tenant Cloud Connectivity, and End-to-End Observability.
 
 ---
 
-### 🛠️ Cloud, Networking & Infrastructure Stack
+###  Cloud, Networking & Infrastructure Stack
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -26,7 +26,7 @@
 
 ---
 
-### 🎯 Core Competencies
+###  Core Competencies
 
 | Domain | Enterprise Expertise & Technologies |
 | :--- | :--- |
